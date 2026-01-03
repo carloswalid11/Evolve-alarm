@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Evolve Alarm</string>
+    <string name="add_alarm">Add Alarm</string>
+    <string name="delete">Delete</string>
+</resources>
